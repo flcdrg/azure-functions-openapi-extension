@@ -41,7 +41,7 @@
     "https-proxy-agent": "5.0.0",
     "progress": "2.0.3",
     "rimraf": "3.0.2",
-    "tmp": "0.1.0",
+    "tmp": "0.2.4",
     "unzipper": "0.10.10"
   }
 }
